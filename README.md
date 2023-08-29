@@ -25,7 +25,7 @@ Completion  | Title														| Year | Platform
 ‎			| ‎															| 2013 | Wii U Virtual Console
 ‎			| ‎			  												| 2016 | 3DS Virtual Console
 ‎			| ‎				 											| 2019 | Switch Online SNES Library
-✔️			| The Legend of Zelda: Link's Awakening      				| 1993 | Game Boy
+✔️			| The Legend of Zelda: Link's Awakening (DX)      			| 1993 | Game Boy
 ‎🔶			| ‎															| 1998 | Game Boy Color
 ‎			| ‎															| 2011 | 3DS Virtual Console
 ‎			| ‎			  												| 2019 | Switch (Remake)
@@ -78,7 +78,7 @@ Completion  | Title														| Year | Platform
 
 Completion  | Title														| Year | Platform
 ----------- | --------------------------------------------------------- | ---- | --------
-✔️🔶		| The Legend of Zelda: Link's Awakening DX					| 1998 | Game Boy Color, 
+➕			| The Legend of Zelda: Link's Awakening DX					| 1998 | Game Boy Color 
 ‎			| ‎															| 2023 | Switch Online GBC Library
 ➖			| The Legend of Zelda: Ocarina of Time Master Quest			| 2002 | N64, GameCube
 ❌			| The Legend of Zelda: Ocarina of Time 3D					| 2011 | 3DS
