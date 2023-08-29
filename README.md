@@ -71,7 +71,7 @@ Completion  | Title														| Year | Platform
 ❌			| The Legend of Zelda: Tri Force Heroes						| 2015 | 3DS
 ✔️🔶		| The Legend of Zelda: Breath of the Wild					| 2017 | Wii U
 ‎			| ‎															| 2017 | Switch
-🔵			| The Legend of Zelda: Tears of the Kingdom					| 2023 | Switch
+🔵🔶		| The Legend of Zelda: Tears of the Kingdom					| 2023 | Switch
 
 
 # Remakes:
@@ -83,7 +83,7 @@ Completion  | Title														| Year | Platform
 ➖			| The Legend of Zelda: Ocarina of Time Master Quest			| 2002 | N64, GameCube
 ❌			| The Legend of Zelda: Ocarina of Time 3D					| 2011 | 3DS
 ❌			| The Legend of Zelda: Four Swords Anniversary Edition		| 2011 | DSiWare
-✔️			| The Legend of Zelda: The Wind Waker HD					| 2013 | Wii U
+✔️🔶		| The Legend of Zelda: The Wind Waker HD					| 2013 | Wii U
 ❌			| The Legend of Zelda: Majora's Mask 3D						| 2015 | 3DS
 ❌			| The Legend of Zelda: Twilight Princess HD					| 2016 | 3DS
 ❌	| The Legend of Zelda: Link's Awakening Remake				| 2019 | Switch
